@@ -1,0 +1,7 @@
+*~
+*.o
+!testCheckers/*.o
+testChecker*
+c4
+studentTests
+instructorTests

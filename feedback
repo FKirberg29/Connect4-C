@@ -1,0 +1,11 @@
+Your "player 1" and "player 2" code are nearly identical.
+You should combine them (possibly into a helper function.)
+
+Your horizontal / vertical / diagonal checks for x_in_a_row 
+contain a lot of nearly identical code.
+
+Please refactor your "player 1" and "player 2" blocks as well as your 
+check for a win to avoid duplicated  / nearly duplicated code.
+
+The other aspects of your code are good.  (I did leave a few comments 
+with other suggestions to consider for future projects.)
